@@ -1,0 +1,54 @@
+/*#48c6ef → #6f86d6*/
+
+body{
+  background-image: linear-gradient(to right, #48c6ef, #6f86d6);
+}
+
+.loginbox{
+  border-radius: 2%;
+  margin-top: 100px;
+  background-color: white;
+  height: 450px;
+  width: 350px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.submit{
+  background-color: cornflowerblue;
+  color: white;
+  font-family: Roboto;
+  width: 85%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+input{
+  margin: 15px;
+  font-family: Roboto;
+  font-size: 1.5rem;
+  outline: none;
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid cornflowerblue;
+}
+
+h1{
+  font-family: Roboto;
+  font-size: 2.2rem;
+  opacity: 0.9;
+}
+
+.password{
+  font-family: Roboto;
+  color: cornflowerblue;
+  font-size: 1.2rem;
+  margin-top: 0px;
+  margin-right: 120px;
+}
+
+.signup{
+  font-family: Roboto;
+  color: cornflowerblue;
+  font-size: 1.2rem;
+}
